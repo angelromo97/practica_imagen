@@ -12,4 +12,4 @@ Trabajo realizado con Guillermo Becquer.
 
 Imagen con los resultados:
 
-![Resultados de la detección y segmentación de tumores](https://raw.githubusercontent.com/angelromo97/practica_imagen/resultados.PNG)
+![Resultados de la detección y segmentación de tumores](https://github.com/angelromo97/practica_imagen/blob/main/resultados.PNG)
