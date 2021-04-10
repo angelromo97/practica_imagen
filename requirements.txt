@@ -1,0 +1,1 @@
+conda create --name practica_no_struct python=3.6 pandas numpy seaborn matplotlib opencv tensorflow IPython "scikit-learn"
